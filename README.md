@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vijaykiranreddy2
-- 👀 I’m interested in buisness analytics
+- 👀 I’m interested in Data Analytics and Data science
 - 🌱 I’m currently learning machine learning techniques
 - 💞️ I’m looking to collaborate on ai driven internships
 - 📫 How to reach me vijaykiranreddy2@gmail.com
